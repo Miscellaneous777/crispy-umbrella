@@ -1,0 +1,17 @@
+.middleText
+{
+  color:red;
+  text-align: center;
+
+}
+#demo
+{
+  border: 2px solid turquoise;
+  background-color: lightblue;
+  color: blue;
+  padding: 20px;
+  padding-left: 40px;
+  text-align: center;
+}
+
+/* RGBA can be used to allows colours to be transparent. Alpha is how transparent something is. */
